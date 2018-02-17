@@ -45,6 +45,15 @@ const myQuestions = [
       correctAnswer: "c"
     },
     {
+      question: "What song plays during the dodgeball game at recess?",
+      answers: {
+        a: "Beat on the Brat",
+        b: "Black Betty",
+        c: "Blitzkrieg Bop"
+      },
+      correctAnswer: "a"
+    },
+    {
       question: "What is Karl Alphonse's job title at Madison Hotel?",
       answers: {
         a: "Marketing Director",
@@ -85,7 +94,7 @@ const myQuestions = [
       answers: {
         a: "Triscuit",
         b: "Saltines",
-        c: ""
+        c: "Ritz"
       },
       correctAnswer: "a"
     },
@@ -95,6 +104,15 @@ const myQuestions = [
         a: "Adam Sandler",
         b: "Robert Smigel",
         c: "Tim Herlihy"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "How many kids did Billy hit while playing dodgeball?",
+      answers: {
+        a: "11",
+        b: "12",
+        c: "13"
       },
       correctAnswer: "b"
     },
@@ -126,11 +144,28 @@ const myQuestions = [
       correctAnswer: "a"
     },
     {
+      question: "True or False: Billy has one week to finish each grade.",
+      answers: {
+        a: "True",
+        b: "False"
+      },
+      correctAnswer: "b"
+    },
+    {
       question: "What is the name of the puppy in 'The Puppy who lost his Way'?",
       answers: {
         a: "Skippy",
         b: "Happy",
         c: "Friendly"
+      },
+      correctAnswer: "b"
+    },
+    {
+      question: "What does Veronica give Billy for his 3rd grade graduation gift?",
+      answers: {
+        a: "A kiss",
+        b: "Snack Packs",
+        c: "A Tale of Two Cities by Charles Dickens"
       },
       correctAnswer: "b"
     },
@@ -142,6 +177,33 @@ const myQuestions = [
         c: "July 15"
       },
       correctAnswer: "a"
+    },
+    {
+      question: "What date is Billy's mother's name?",
+      answers: {
+        a: "Emily",
+        b: "Dolores",
+        c: "Martha"
+      },
+      correctAnswer: "a"
+    },
+    {
+      question: "Besides candy, what can be found in the pinatas at Billy's graduation parties?",
+      answers: {
+        a: "Bottles of beer",
+        b: "Stuffed animals",
+        c: "Rolex watches"
+      },
+      correctAnswer: "c"
+    },
+    {
+      question: "What did Billy exclaim after he won his 2nd grade spelling bee?",
+      answers: {
+        a: "PLENTY MORE WHERE THAT CAME FROM!",
+        b: "I AM THE SMARTEST MAN ALIVE!",
+        c: "THANK YOU VERY MUCH MISS LIPPY!"
+      },
+      correctAnswer: "b"
     },
     {
       question: "What is the name of Billy's third grade friend?",
