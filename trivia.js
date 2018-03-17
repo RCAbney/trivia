@@ -1,5 +1,6 @@
 const quizContainer = document.getElementById('quiz');
 const resultsContainer = document.getElementById('results');
+const resultsList = document.getElementById('results-list');
 const submitButton = document.getElementById('submit');
 
 function buildQuiz() {
@@ -42,9 +43,12 @@ function showResults() {
 
         if (userAnswer === currentQuestion.correctAnswer) {
             numCorrect++;
-            answerContainers[questionNumber].style.color = 'lightgreen';
+            resultsList.innerHTML += `<li>${currentQuestion.question} - your answer: ${userAnswer} - correct answer: ${currentQuestion.correctAnswer}</li>`;
+
         } else {
-            answerContainers[questionNumber].style.color = 'red';
+            let correctText = currentQuestion.answers[currentQuestion.correctAnswer];
+            console.log(currentQuestion.answers.a);
+            resultsList.innerHTML += `<li style="background-color: #ff6961;">${currentQuestion.question} - your answer: ${userAnswer} - <span style="font-weight: bold;">correct answer: ${currentQuestion.correctAnswer} - ${correctText}</span></li>`;
         }
 
     });

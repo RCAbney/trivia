@@ -353,7 +353,7 @@ const myQuestions = [
       correctAnswer: "a"
     },
     {
-      question: "What date is Billy's mother's name?",
+      question: "What is Billy's mother's name?",
       answers: {
         a: "Emily",
         b: "Dolores",
