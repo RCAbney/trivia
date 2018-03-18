@@ -145,6 +145,34 @@ const myQuestions = [
         correctAnswer: "b"
     },
     {
+      question: 'Where does Eric get shot?',
+      answers: {
+        a: 'In the knee',
+        b: 'In the butt',
+        c: 'In the shoulder'
+      },
+      correctAnswer: 'b'
+    },
+    {
+      question: 'What instrument does Billy play during the music portion of the academic decathlon?',
+      answers: {
+        a: 'Trombone',
+        b: 'French Horn',
+        c: 'Clarinet'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'What does Billy say the first time Ms Vaughn enters the classroom?',
+      answers: {
+        a: 'Jackpot',
+        b: 'Holy Shit',
+        c: 'GOO!'
+      },
+      correctAnswer: 'a'
+    },
+    
+    {
         question: "If peeing your pants is cool, consider me _________",
         answers: {
             a: "Robert Redford",
@@ -326,6 +354,61 @@ const myQuestions = [
       correctAnswer: "b"
     },
     {
+      question: 'What university was Eric a 2nd team All-American in track and field',
+      answers: {
+        a: 'Princeton',
+        b: 'Harvard',
+        c: 'Yale'
+      },
+      correctAnswer: 'b'
+    },
+    {
+      question: 'What year was the Norman invasion of England',
+      answers: {
+        a: '1066',
+        b: '1776',
+        c: '1215'
+      },
+      correctAnswer: 'a'
+    },
+    {
+      question: 'What is the score going into the final event of the academic decathlon?',
+      answers: {
+        a: 'Eric leads 5-4',
+        b: 'Billy leads 5-4',
+        c: 'Its a tie'
+      },
+      correctAnswer: 'b'
+    },
+    {
+      question: 'Who does Frank (Norm MacDonald) make out with at the end?',
+      answers: {
+        a: 'The Lunch Lady',
+        b: 'The Penguin',
+        c: 'No one, he is shot down by the snotty girl from Billys science class'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'What SNL writer played the high school principal?',
+      answers: {
+        a: 'James Downey',
+        b: 'Lorne Michaels',
+        c: 'Robert Smigel'
+      },
+      correctAnswer: 'a'
+    },
+    {
+      question: 'What happens when Eric cant answer his final academic decathlon question?',
+      answers: {
+        a: 'He pees his pants',
+        b: 'He pulls out a gun',
+        c: 'He yells at everyone to shut up'
+      },
+      correctAnswer: 'b'
+    },
+    
+    {
       question: "What is the name of the puppy in 'The Puppy who lost his Way'?",
       answers: {
         a: "Skippy",
@@ -387,7 +470,141 @@ const myQuestions = [
         c: "Steven"
       },
       correctAnswer: "a"
+    },{
+      question: 'Which goes on first, Shampoo or Conditioner?',
+      answers: {
+        a: 'Shampoo',
+        b: 'Conditioner',
+      },
+      correctAnswer: 'a'
     },
+    {
+      question: 'According to Billys Father, why did Billy graduate the first time he went to school',
+      answers: {
+        a: 'Billy studied harder than anyone',
+        b: 'Billy cheated on all of his test',
+        c: 'Billys dad paid his teachers to give him good grades'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'What word does Billy spell correctly to pass 2nd grade?',
+      answers: {
+        a: 'Rock',
+        b: 'Bunt',
+        c: 'Couch'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'What was Karls original job when he first started at Madison Hotels?',
+      answers: {
+        a: 'Night Bell Boy',
+        b: 'Front Desk Clerk',
+        c: 'Room Service Waiter'
+      },
+      correctAnswer: 'a'
+    },
+    {
+      question: 'When Billy starts 3rd grade, which subject does NOT make him nervous?',
+      answers: {
+        a: 'Social Studies',
+        b: 'Division',
+        c: 'Science'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'What is Ms. Lippy doing while Billy cleans chalkboard erasers?',
+      answers: {
+        a: 'Wiping paste on her face',
+        b: 'Dancing some weirdass yoga dance',
+        c: 'Drinking alcohol'
+      },
+      correctAnswer: 'a'
+    },
+    {
+      question: 'How did Madison Hotels originally start?',
+      answers: {
+        a: 'Mr. Madison bought it from the Hilton Family',
+        b: 'It was a 15 unit motel in Patchogue Long Island',
+        c: 'Mr. Madison did a hostile takeover of Howard Johnsons'
+      },
+      correctAnswer: 'b'
+    },
+    {
+      question: 'When Billy gets caught saying Jeez whats up her butt, what does he tell Ms Vaughn he actually said? ',
+      answers: {
+        a: 'Who likes to eat coconuts?',
+        b: 'I fell down and landed in a rut!',
+        c: 'Reading is good! Can we start the story now?'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'Who dares Billy to touch Ms Vaughns boobs?',
+      answers: {
+        a: 'Ernie',
+        b: 'Dan',
+        c: 'O Doyle'
+      },
+      correctAnswer: 'b'
+    },
+    {
+      question: 'What issue of Wrestling World was the Revolting Blob featured in?',
+      answers: {
+        a: 'August 1983',
+        b: 'February 1984',
+        c: 'July 1985'
+      },
+      correctAnswer: 'a'
+    },
+    {
+      question: 'What number was Billy on Danny McGraths hit list?',
+      answers: {
+        a: '4',
+        b: '5',
+        c: '6'
+      },
+      correctAnswer: 'a'
+    },
+    {
+      question: 'Who is the first person at school that Billy talks to?',
+      answers: {
+        a: 'Ms. Lippy',
+        b: 'Scottys mom the Mucus Queen',
+        c: 'Ms. Vaughn'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'During the academic decathlon, what did Billy write down as his math answer?',
+      answers: {
+        a: 'Here is X <-- its right here',
+        b: 'Eric drinks his own pee',
+        c: 'I like pi'
+      },
+      correctAnswer: 'b'
+    },
+    {
+      question: 'What does Mr. Madison beg Billy not to do during his business dinner?',
+      answers: {
+        a: 'Make fun of Eric',
+        b: 'Bite the man sitting next to him',
+        c: 'Speak jibberish'
+      },
+      correctAnswer: 'c'
+    },
+    {
+      question: 'What happens to Eric during the Home Ec portion of the academic decathlon?',
+      answers: {
+        a: 'He gets a pie in the face',
+        b: 'He sets himself on fire',
+        c: 'He slips on a banana peel'
+      },
+      correctAnswer: 'b'
+    },
+    
     {
       question: "What is Old Man Clemen's wife's name?",
       answers: {
