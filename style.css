@@ -13,7 +13,7 @@ h1 {
 }
 
 .question {
-    font-size: 2em;
+    font-size: 1.2em;
     margin-bottom: 1em;
 }
 
@@ -29,12 +29,12 @@ h1 {
 }
 
 button {
-    font-size: 1.4em;
+    font-size: 1em;
     background-color: #279;
     color: #fff;
     border: 0;
     border-radius: 3px;
-    padding: 20px;
+    padding: 12px;
     cursor: pointer;
     margin-bottom: 1.4em;
 }
