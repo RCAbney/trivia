@@ -9,6 +9,16 @@ const myQuestions = [
       correctAnswer: "c"
     },
     {
+        question: 'What is the name of the retirement home Happy sends his grandmother to?',
+        answers: {
+            a: 'Lone Pine Retirement Community',
+            b: 'The Stratford',
+            c: 'Silver Acres Rest Home'
+        },
+        correctAnswer: 'c'
+    },
+    
+    {
         question: 'Who directed Happy Gilmore?',
         answers: {
             a: 'Adam Sandler',
@@ -35,6 +45,196 @@ const myQuestions = [
         },
         correctAnswer: 'a'
     },
+    {
+        question: 'Which job did Happy NOT have prior to becoming a golfer?',
+        answers: {
+            a: 'Road Worker',
+            b: 'Gas Station Attendent',
+            c: 'Bouncer'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: 'How many people are listening to Happy sing I Wanna Kiss You All Over?',
+        answers: {
+            a: '2',
+            b: '3',
+            c: '4'
+        },
+        correctAnswer: 'b'
+    },
+    {
+        question: 'What game show does Happy mistakenly thinks Bob Barker is the host of?',
+        answers: {
+            a: 'The Price is Right',
+            b: 'Wheel of Fortune',
+            c: 'Lets Make a Deal'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: 'What club does Mr. Larsen bend in half?',
+        answers: {
+            a: 'Putter',
+            b: 'Nine Iron',
+            c: 'Pitching Wedge'
+        },
+        correctAnswer: 'b'
+    },
+    {
+        question: 'What is Happys punishment for fighting with Bob Barker?',
+        answers: {
+            a: 'He is fired from the tour',
+            b: 'He is fined 1,000,000 dollars',
+            c: 'He is suspended one month and fined 25,000 dollars'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: 'What is the theme of the last mini golf hole Happy plays?',
+        answers: {
+            a: 'Earthquake',
+            b: 'Clowns',
+            c: 'The Nutcracker'
+        },
+        correctAnswer: 'a'
+    },
+    {
+        question: 'What is Lee Trevinos only line in the film',
+        answers: {
+            a: 'I believe thats Mr Gilmores jacket',
+            b: 'They give you the gold jacket when you win the tour championship, Happy',
+            c: 'Grizzly Adams did have a beard'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: 'What snaps Happy out of his "funk" during the final round of the Tour Championship?',
+        answers: {
+            a: 'Virginia gives him a kiss',
+            b: 'He sees Mr. Larson threaten Shooter',
+            c: 'His grandmother comes to watch him play in person'
+        },
+        correctAnswer: 'c'
+    },
+    {
+        question: 'What is Shooters jacket size?',
+        answers: {
+            a: '44 long and his right arm is a little longer than the left',
+            b: '45 long and his right arm is a little longer than the left',
+            c: '46 long and his left arm is a little longer than the left'
+        },
+        correctAnswer: 'a'
+    },
+        {
+            question: 'What other movie did Carl Weathers lose his hand in?',
+            answers: {
+                a: 'Rocky 3',
+                b: 'Action Jackson',
+                c: 'Predator'
+            },
+            correctAnswer: 'c'
+        },
+        {
+            question: 'What is the name of the actor that plays Mr. Larson',
+            answers: {
+                a: 'Richard Kiel',
+                b: 'Dolph Lundgren',
+                c: 'Paul Wight'
+            },
+            correctAnswer: 'a'
+        },
+        {
+            question: 'What year was Happy Gilmore released in theaters',
+            answers: {
+                a: '1993',
+                b: '1996',
+                c: '1999'
+            },
+            correctAnswer: 'b'
+        },
+        {
+            question: 'What other Adam Sandler movie does Chubbs Peterson appear in?',
+            answers: {
+                a: 'Jack and Jill',
+                b: 'You dont mess with the Zohan',
+                c: 'Lil Nicky'
+            },
+            correctAnswer: 'c'
+        },
+        {
+            question: 'How much money did Happy win at the Michelob Open?',
+            answers: {
+                a: '4,500',
+                b: '9,000',
+                c: '12,000'
+            },
+            correctAnswer: 'b'
+        },
+        {
+            question: 'What does Verne Lundquist say when he witnesses Happys first tee shot?',
+            answers: {
+                a: 'Oh my god what a shot!',
+                b: 'Who the hell is Happy Gilmore?',
+                c: 'Chicks dig the long ball!'
+            },
+            correctAnswer: 'b'
+        },
+        {
+            question: 'Where and when is the secret meeting that Happy is invited to?',
+            answers: {
+                a: 'The 8th green at 8',
+                b: 'The 9th green at 9',
+                c: 'The 10th green at 10'
+            },
+            correctAnswer: 'b'
+        },
+        {
+            question: 'How long did Hal L. extend arts and crafts time?',
+            answers: {
+                a: '1 hour',
+                b: '2 hours',
+                c: '4 hours'
+            },
+            correctAnswer: 'c'
+        },
+        {
+            question: 'Prior to winning the Tour Championship, what is the highest place Happy finished in a professional tournament?',
+            answers: {
+                a: '15th',
+                b: '9th',
+                c: '3rd'
+            },
+            correctAnswer: 'b'
+        },
+        {
+            question: 'After Happy received a reply to his fan mail from Brooke Shields, what did he notice about it?',
+            answers: {
+                a: 'It was in his grandmothers handwriting',
+                b: 'It was scented',
+                c: 'It included an autographed photo'
+            },
+            correctAnswer: 'a'
+        },
+        {
+            question: 'Where does Bob say that Happy should be working?',
+            answers: {
+                a: 'In the parking lot as a valet',
+                b: 'At the snack bar',
+                c: 'In the pro shop'
+            },
+            correctAnswer: 'b'
+        },
+        {
+            question: 'What is the name of the apartments Happy lives at?',
+            answers: {
+                a: 'Quebec Manor',
+                b: 'Minnesota Flats',
+                c: 'Waterbury Apartments'
+            },
+            correctAnswer: 'a'
+        },
+        
     {
         question: 'What is the name of the moving company that was packing up Happys grandmothers house?',
         answers: {
@@ -294,6 +494,6 @@ const myQuestions = [
         b: "Mexico",
         c: "South Africa"
       },
-      correctAnswer: "c"
+      correctAnswer: "a"
     }
   ];
