@@ -387,7 +387,7 @@ const myQuestions = [
         b: 'The Penguin',
         c: 'No one, he is shot down by the snotty girl from Billys science class'
       },
-      correctAnswer: 'c'
+      correctAnswer: 'a'
     },
     {
       question: 'What SNL writer played the high school principal?',
