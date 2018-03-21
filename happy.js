@@ -437,7 +437,7 @@ const myQuestions = [
         question: 'How much did Shooter pay at auction for Mrs Gilmores house?',
         answers: {
             a: '250,000',
-            b: '375,000',
+            b: '350,000',
             c: '500,000'
         },
         correctAnswer: 'b'
